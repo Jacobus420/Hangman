@@ -30,4 +30,4 @@ def hangman():
 
 hangman()
 
-#this shows it worked
+x=100
